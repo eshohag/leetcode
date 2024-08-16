@@ -154,7 +154,3 @@ This project contains solutions for problems from LeetCode, "Coding Interviews (
 <!--
 ### 7. Mathematical Knowledge
  -->
-
-## License
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
